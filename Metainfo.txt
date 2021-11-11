@@ -1,0 +1,13 @@
+Name of QuantLet : hedging_cc
+
+Published in : Hedging Cryptocurrency Options
+
+Description : 'Code infrastructure for paper Hedging Cryptocurrency Options'
+
+Keywords : BTC, hedging, cryptocurrency, cryptocurrency options
+
+Author : Jovanka Lili Matic 
+
+Submitted : Sunday, July 9 2021 by Jovanka Lili Matic
+
+Example : 'hedging.ipyn'
